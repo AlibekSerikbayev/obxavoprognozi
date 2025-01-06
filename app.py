@@ -7,7 +7,7 @@ API_KEY = "1508ab52824d4f1fa290aeb3d55765cd"
 BASE_URL = "https://api.weatherbit.io/v2.0/forecast/daily"
 
 REGIONS = [
-    "Tashkent", "Samarkand", "Bukhara", "Khiva", "Namangan",
+    "Tashkent", "Samarqand", "Bukhara", "Khiva", "Namangan",
     "Andijan", "Fergana", "Nukus", "Karshi", "Termez",
     "Jizzakh", "Gulistan"
 ]
